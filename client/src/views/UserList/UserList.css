@@ -1,0 +1,15 @@
+/* .icon-search .search-input:before {
+  font-family: Ionicons;
+  content: '';
+  color: var(--color-heather);
+  position: absolute;
+  height: 24px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+} */
+.add-user{
+  width: 80px;
+  height: 50px;
+  margin-left: 100px;
+}
